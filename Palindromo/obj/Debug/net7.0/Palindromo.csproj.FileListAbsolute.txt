@@ -1,0 +1,30 @@
+C:\Users\W-10\source\repos\Palindromo\Palindromo\bin\Debug\net7.0\Palindromo.exe
+C:\Users\W-10\source\repos\Palindromo\Palindromo\bin\Debug\net7.0\Palindromo.deps.json
+C:\Users\W-10\source\repos\Palindromo\Palindromo\bin\Debug\net7.0\Palindromo.runtimeconfig.json
+C:\Users\W-10\source\repos\Palindromo\Palindromo\bin\Debug\net7.0\Palindromo.dll
+C:\Users\W-10\source\repos\Palindromo\Palindromo\bin\Debug\net7.0\Palindromo.pdb
+C:\Users\W-10\source\repos\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.csproj.AssemblyReference.cache
+C:\Users\W-10\source\repos\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W-10\source\repos\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.AssemblyInfoInputs.cache
+C:\Users\W-10\source\repos\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.AssemblyInfo.cs
+C:\Users\W-10\source\repos\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\W-10\source\repos\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.dll
+C:\Users\W-10\source\repos\Palindromo\Palindromo\obj\Debug\net7.0\refint\Palindromo.dll
+C:\Users\W-10\source\repos\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.pdb
+C:\Users\W-10\source\repos\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.genruntimeconfig.cache
+C:\Users\W-10\source\repos\Palindromo\Palindromo\obj\Debug\net7.0\ref\Palindromo.dll
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\bin\Debug\net7.0\Palindromo.exe
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\bin\Debug\net7.0\Palindromo.deps.json
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\bin\Debug\net7.0\Palindromo.runtimeconfig.json
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\bin\Debug\net7.0\Palindromo.dll
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\bin\Debug\net7.0\Palindromo.pdb
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.csproj.AssemblyReference.cache
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.AssemblyInfoInputs.cache
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.AssemblyInfo.cs
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.dll
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\obj\Debug\net7.0\refint\Palindromo.dll
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.pdb
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\obj\Debug\net7.0\Palindromo.genruntimeconfig.cache
+C:\Users\W-10\OneDrive\Área de Trabalho\VagaCatho\Palindromo\Palindromo\obj\Debug\net7.0\ref\Palindromo.dll
